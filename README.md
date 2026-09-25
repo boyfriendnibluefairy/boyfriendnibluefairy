@@ -4,6 +4,13 @@
 
 ******
 
+# fsociety
+
+**fsociety is a free movie diary, movie tracker, and film review app made for people who love movies.
+Track the movies you watch, build your personal film diary, write reviews and fan theories, and discover spoiler-free movie opinions from other film fans.
+
+******
+
 # Cat Radar
 **Cat Radar** is a free app that utilizes Machine Learning to detect cats. Powered by Apple's CoreML, the app works without internet connection and does not collect user data.
 
