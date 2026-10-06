@@ -9,7 +9,8 @@
 **fsociety** is a free movie diary, movie tracker, and film review app made for people who love movies.
 Track the movies you watch, build your personal film diary, write reviews and fan theories, and discover spoiler-free movie opinions from other film fans.
 
-<img width="961" height="574" alt="fsociety_app_preview_v2" src="https://github.com/user-attachments/assets/fffa493c-846b-4b89-930b-205f6da9abc2" />
+<img width="853" height="639" alt="fsociety in app store - compressed" src="https://github.com/user-attachments/assets/9b10b1a8-90cd-4390-a91a-adb3587723d5" />
+
 
 
 ******
