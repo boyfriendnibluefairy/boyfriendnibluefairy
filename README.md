@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨🏻‍💻 I'm a researcher working on portable holographic cameras that operate using natural light. Before embarking on incoherent holography, here are my side projects outside research:
+👨🏻‍💻 I'm a researcher working on portable holographic cameras that operate using natural light. Before embarking on incoherent holography, here are my side projects:
 
 ******
 
